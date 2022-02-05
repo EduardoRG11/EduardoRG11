@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eduardo Ruiz
-- 👀 I’m interested in Racin temes and coding
+- 👀 I’m interested in Racing themes and coding
 - 🌱 I’m currently learning HTML5 and CCS
 - 💞️ I’m looking to collaborate on a important brand
 
